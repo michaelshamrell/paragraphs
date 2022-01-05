@@ -63,6 +63,7 @@ img {
   border-width: 1px;
   background-color: orange;
   margin-bottom: 10px;
+	box-sizing: border-box;
 }
 .box2 {
   width: 50%;
@@ -71,6 +72,7 @@ img {
   border-width: 20px;
   background-color: orange;
   margin-bottom: 10px;
+	box-sizing: border-box;
 }
 .box3 {
   width: 50%;
@@ -79,4 +81,5 @@ img {
   border-width: 30px;
   background-color: orange;
   margin-bottom: 10px;
+	box-sizing: border-box;
 }
