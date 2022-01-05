@@ -1,0 +1,25 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+	margin: 5px;
+}
+
+img.float-left-small {
+	width: 25%;
+	float: left;
+	margin: 5px;
+}
+
+img.thumbnail {
+	width: 50%;
+}
+
+h1 {
+	text-align: center;
+}
+
+.columns {
+	width: 45%;
+	float: left;
+}
