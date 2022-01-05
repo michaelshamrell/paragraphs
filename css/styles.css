@@ -37,3 +37,7 @@ img.intro {
 .highlight {
   background-color: orange;
 }
+
+img {
+  float: left;
+}
