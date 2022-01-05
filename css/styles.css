@@ -4,9 +4,17 @@ p.author {
 	font-weight: bold;
 }
 
+h2.intro {
+	color: cornflowerblue;
+}
+
 p.intro {
 	width: 50%;
 	font-style: italic;
+}
+
+img.intro {
+	width: 25%;
 }
 
 .important {
