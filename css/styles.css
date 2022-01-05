@@ -21,7 +21,15 @@ img.intro {
 	color: red;
 }
 
+.unimportant {
+	color: blue;
+}
+
 .notice {
   color: green;
 	font-size: 3em;
+}
+
+.highlight {
+  background-color: orange;
 }
