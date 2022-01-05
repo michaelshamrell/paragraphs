@@ -4,6 +4,10 @@ p.author {
 	font-weight: bold;
 }
 
+.intro {
+	background-color: yellow;
+}
+
 h2.intro {
 	color: cornflowerblue;
 }
