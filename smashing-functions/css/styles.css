@@ -3,12 +3,14 @@
   float: right;
   background-color: yellow;
 	margin: 5px;
+	padding: 10px;
 }
 
 img.float-left-small {
 	width: 25%;
 	float: left;
 	margin: 5px;
+	
 }
 
 img.thumbnail {
@@ -19,7 +21,21 @@ h1 {
 	text-align: center;
 }
 
+body {
+	background: linear-gradient(red, blue);
+	color: gainsboro;
+}
+
 .columns {
-	width: 45%;
+	width: 47%;
 	float: left;
+	background-color: green;
+	margin: 5px;
+	padding: 10px;
+}
+
+.column-boxes {
+	width: 100%;
+	overflow: auto;
+	background-color: red;
 }
